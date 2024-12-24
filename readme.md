@@ -37,7 +37,7 @@ Join our [Discord Server](https://dsc.gg/parcoil) for links and more!
 
 #### Prerequisites:
 
-- Node 20.x
+- Node 20.0x
 
 To get started you need to clone the repo
 
